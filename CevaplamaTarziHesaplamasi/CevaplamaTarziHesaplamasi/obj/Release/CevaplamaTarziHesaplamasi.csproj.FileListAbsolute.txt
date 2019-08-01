@@ -1,0 +1,16 @@
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\bin\Release\CevaplamaTarziHesaplamasi.dll
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\bin\Release\CevaplamaTarziHesaplamasi.pdb
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\bin\Release\CevaplamaTarziHesaplamasi.dll.manifest
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\bin\Release\CevaplamaTarziHesaplamasi.vsto
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\obj\Release\CevaplamaTarziHesaplamasi.csprojResolveAssemblyReference.cache
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\obj\Release\CevaplamaTarziHesaplamasi.Hakkimizda.resources
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\obj\Release\CevaplamaTarziHesaplamasi.KontrolSorusuEklemeFormu.resources
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\obj\Release\CevaplamaTarziHesaplamasi.MissingTemizlemeFormu.resources
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\obj\Release\CevaplamaTarziHesaplamasi.Properties.Resources.resources
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\obj\Release\CevaplamaTarziHesaplamasi.Ribbon1.resources
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\obj\Release\CevaplamaTarziHesaplamasi.YardimPaneli.resources
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\obj\Release\CevaplamaTarziHesaplamasi.csproj.GenerateResource.Cache
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\obj\Release\CevaplamaTarziHesaplamasi.dll
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\obj\Release\CevaplamaTarziHesaplamasi.pdb

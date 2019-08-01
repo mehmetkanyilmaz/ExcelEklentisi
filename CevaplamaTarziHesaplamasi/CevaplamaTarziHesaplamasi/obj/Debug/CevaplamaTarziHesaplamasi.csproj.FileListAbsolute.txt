@@ -1,0 +1,17 @@
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\bin\Debug\CevaplamaTarziHesaplamasi.dll
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\bin\Debug\CevaplamaTarziHesaplamasi.pdb
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\bin\Debug\CevaplamaTarziHesaplamasi.dll.manifest
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\bin\Debug\CevaplamaTarziHesaplamasi.vsto
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\obj\Debug\CevaplamaTarziHesaplamasi.csprojResolveAssemblyReference.cache
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\obj\Debug\CevaplamaTarziHesaplamasi.Hakkimizda.resources
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\obj\Debug\CevaplamaTarziHesaplamasi.KontrolSorusuEklemeFormu.resources
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\obj\Debug\CevaplamaTarziHesaplamasi.MissingTemizlemeFormu.resources
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\obj\Debug\CevaplamaTarziHesaplamasi.Properties.Resources.resources
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\obj\Debug\CevaplamaTarziHesaplamasi.Ribbon1.resources
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\obj\Debug\CevaplamaTarziHesaplamasi.YardimPaneli.resources
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\obj\Debug\CevaplamaTarziHesaplamasi.csproj.GenerateResource.Cache
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\obj\Debug\CevaplamaTarziHesaplamasi.dll
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\obj\Debug\CevaplamaTarziHesaplamasi.pdb
+C:\Users\MEHMET KANYILMAZ\Desktop\CevaplamaTarziHesaplamasi\CevaplamaTarziHesaplamasi\bin\Debug\CevaplamaTarziHesaplamasi.dll.config
